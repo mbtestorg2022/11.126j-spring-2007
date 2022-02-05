@@ -28,12 +28,57 @@ An education course is a good place to try to improve your education. In particu
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 20% |
-| Mid-term | 25% |
-| Final exam | 35% |
-| Class and recitation participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class and recitation participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Peter will run the weekly section meeting and hold office hours. The first two section meetings will present the basic econometrics needed to read many of the course readings. Subsequent sections will expand on material in class and will hold assigned student debates on various topics.
 
