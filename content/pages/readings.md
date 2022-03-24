@@ -41,7 +41,7 @@ Autor, David, Frank Levy, and Richard J. Murnane. "The Consequences of Increasin
 
 Wessel, David. "Moving up: Challenges to the American Dream; Escalator Ride: As Rich-poor Gap Widens in the U.S., Class Mobility Stalls; Those in Bottom Rung Enjoy Better Odds in Europe; How Parents Confer an Edge; Immigrants See Fast Advance." _The Wall Street Journal_ (May 13, 2005): A1.
 
-Jorgenson, Dale W., Mun S. Ho, and Kevin J. Stiroh. "Will the U.S. Productivity Resurgence Continue?" _Current Issues in Economics and Finance_ 10, no. 13 (2004). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ny.frb.org/research/current_issues/ci10-13.pdf))
+Jorgenson, Dale W., Mun S. Ho, and Kevin J. Stiroh. "Will the U.S. Productivity Resurgence Continue?" _Current Issues in Economics and Finance_ 10, no. 13 (2004). ([PDF](http://www.ny.frb.org/research/current_issues/ci10-13.pdf))
 
 
 {{< tdclose >}}
@@ -77,7 +77,7 @@ Knudsen, Eric I., James J. Heckman, Judy L. Cameron, and Jack P. Shonkoff. "Econ
 
 Feinstein, Leon. "Inequality in the Early Cognitive Development of British Children in the 1970 Cohort." _Economica_ 70, no. 277 (2003): 73-97.
 
-Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton University Industrial Relations Section. Princeton, NJ: Princeton University Press, April 16, 2002, pp. 12-23. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.irs.princeton.edu/pubs/pdfs/466.pdf))
+Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton University Industrial Relations Section. Princeton, NJ: Princeton University Press, April 16, 2002, pp. 12-23. ([PDF](http://www.irs.princeton.edu/pubs/pdfs/466.pdf))
 
 
 {{< tdclose >}}
@@ -99,7 +99,7 @@ When did earnings become so dependent on education?
 
 Freeman, Richard B. _The Overeducated American_. New York, NY: Academic Press, 1976, chapters 1-3. ISBN: 9780122672507.
 
-Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton University Industrial Relations Section. Princeton, NJ: Princeton University Press, April 16, 2002, pp. 38-39. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.princeton.edu/~ceps/workingpapers/87krueger.pdf))
+Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton University Industrial Relations Section. Princeton, NJ: Princeton University Press, April 16, 2002, pp. 38-39. ([PDF](http://www.princeton.edu/~ceps/workingpapers/87krueger.pdf))
 
 
 {{< tdclose >}}
@@ -257,7 +257,7 @@ School vouchers and parental choice
 {{< tdopen >}}
 
 
-Greene, Jay P., Paul E. Peterson, and Jiangtao Du. "Effectiveness of School Choice: The Milwaukee Experiment." _Education and Urban Society_ 31, no. 2 (1999): 190-213. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://journals.sagepub.com/doi/10.1177/0013124599031002005))
+Greene, Jay P., Paul E. Peterson, and Jiangtao Du. "Effectiveness of School Choice: The Milwaukee Experiment." _Education and Urban Society_ 31, no. 2 (1999): 190-213. ([PDF](https://journals.sagepub.com/doi/10.1177/0013124599031002005))
 
 Cullen, Julie Berry, Brian A. Jacob, and Steven Levitt. "The Effect of School Choice on Participants: Evidence from Randomized Lotteries." _Econometrica_ 74, no. 5 (2006): 1191-1230.
 
@@ -341,7 +341,7 @@ Can technology complement what teachers do?
 
 Rouse, Cecilia Elena, and Alan B. Krueger. "[Putting Computerized Instruction to the Test: A Randomized Evaluation of a 'Scientifically Based' Reading Program](http://www.nber.org/papers/w10315)." _Economics of Education Review_ 23, no. 4 (2004): 323-338.
 
-Burstein, Jill, Martin Chodorow, and Claudia Leacock. "_Criterion_ Online Essay Evaluation: An Application for Automated Evaluation of Student Essays." Proceedings of the 15th Annual Conference on Innovative Applications of Artificial Intelligence, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ets.org/Media/Research/pdf/erater_iaai03_burstein.pdf))
+Burstein, Jill, Martin Chodorow, and Claudia Leacock. "_Criterion_ Online Essay Evaluation: An Application for Automated Evaluation of Student Essays." Proceedings of the 15th Annual Conference on Innovative Applications of Artificial Intelligence, 2003. ([PDF](http://www.ets.org/Media/Research/pdf/erater_iaai03_burstein.pdf))
 
 ### Optional
 
