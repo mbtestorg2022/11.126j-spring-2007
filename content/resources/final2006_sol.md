@@ -4,6 +4,7 @@ description: This resource contains solutions to the spring 2006 final exam for 
   course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-126j-economics-of-education-spring-2007/884b2f236556ef7fe87e1bb28199de44_final2006_sol.pdf
 file_type: application/pdf
+parent_uid: 0f246db8-d617-428f-78ea-caf8540a1149
 resourcetype: Document
 title: final2006_sol.pdf
 uid: 884b2f23-6556-ef7f-e87e-1bb28199de44
